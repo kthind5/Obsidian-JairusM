@@ -33,5 +33,3 @@ GetNumber();
 \![[xxx^xxx]]
 
 Github
-
-Test
