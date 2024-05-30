@@ -1,0 +1,1 @@
+- Make sure that all the nuggets are installed
