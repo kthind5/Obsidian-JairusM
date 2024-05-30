@@ -1,0 +1,60 @@
+{
+  "palette": [
+    {
+      "id": "3TbmQcVc3YQpzv1LsZwS6",
+      "name": "Red",
+      "value": "#811818"
+    },
+    {
+      "id": "iuHkyAM5O4gwQcgiELaTg",
+      "name": "Blue",
+      "value": "#274a9b"
+    },
+    {
+      "id": "ppQNtaAgFCKoD6yu_DJs8",
+      "name": "Green",
+      "value": "#1a7a32"
+    },
+    {
+      "id": "6H3nVCjy6iOXlOvty369-",
+      "name": "Orange",
+      "value": "#b67d1b"
+    },
+    {
+      "id": "69dYXzvATDztQZc-IiWVi",
+      "name": "Yellow",
+      "value": "#6e8226"
+    },
+    {
+      "id": "6SDzctPlQ4yfXmyn0frgF",
+      "name": "Violet",
+      "value": "#6d248f"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "1517 - Intro to AppDev",
+      "color": "6H3nVCjy6iOXlOvty369-"
+    },
+    {
+      "path": "1520 - Intro to Javascript",
+      "color": "69dYXzvATDztQZc-IiWVi"
+    },
+    {
+      "path": "1525 - System Analysis",
+      "color": "ppQNtaAgFCKoD6yu_DJs8"
+    },
+    {
+      "path": "2027- Project Essentials",
+      "color": "iuHkyAM5O4gwQcgiELaTg"
+    },
+    {
+      "path": "1500 - ORGB",
+      "color": "3TbmQcVc3YQpzv1LsZwS6"
+    },
+    {
+      "path": "Calendar",
+      "color": "6SDzctPlQ4yfXmyn0frgF"
+    }
+  ]
+}
