@@ -1,4 +1,4 @@
-1. Run Termninal
+1. Run Terminal
 2. npm init -y (package.json files now added)
 3. npm i -D parcel
 4. npm i bootstrap
