@@ -5,7 +5,7 @@ Use ! to display stuff
 "x$^2$" Latex language for Math **(thanks kulraj)***
 Use two \$$ on either side to display it in the middle"- Kulraj
 
-use two \\\\ to display stuff without formatting
+use two \\\\ to display one \\ without formatting
 
 ctrl+alt+e for emojis
 
